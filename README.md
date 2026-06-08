@@ -1,6 +1,8 @@
 # Medical Named Entity Extraction Lab
 
-A clean, production-ready Streamlit app for high-performance medical named entity extraction using Hugging Face NLP models. The app is engineered for digital minimalism, modularity, and fast deployment on Streamlit Community Cloud, GitHub, and Hugging Face.
+A clean, production-ready Streamlit app for high-performance medical named entity extraction using Hugging Face NLP models.
+
+The app is engineered for digital minimalism, modularity, and fast deployment on Streamlit Community Cloud, GitHub, and Hugging Face.
 
 ## Project overview
 - Uses a Hugging Face NER pipeline for entity extraction from free-form clinical or medical text.
@@ -86,3 +88,4 @@ Open the provided local URL in your browser.
 ## Notes
 - This app is engineered for minimalism: simple UI, compact backend, and reusable modules.
 - For best performance, use Streamlit Community Cloud or a containerized deployment.
+- 
